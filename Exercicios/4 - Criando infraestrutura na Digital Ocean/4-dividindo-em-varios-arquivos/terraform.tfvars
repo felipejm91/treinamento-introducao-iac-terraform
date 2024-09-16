@@ -1,0 +1,5 @@
+do_token  = "VALOR_TOKEN"
+imagem    = "ubuntu-20-04-x64"
+regiao    = "nyc1"
+size      = "s-1vcpu-1gb"
+chave_ssh = "DIRETORIO_ARQUIVO/chave-exercicio.pub"
